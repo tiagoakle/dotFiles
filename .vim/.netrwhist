@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/tiago/Dropbox/FBA'
+let g:netrw_dirhist_2='/home/tiago/crnt-icme/TestsMultipleLinkage'
+let g:netrw_dirhist_3='/home/tiago/Dropbox/TinyTutorials/Texlive'
+let g:netrw_dirhist_4='/home/tiago/.vim'
