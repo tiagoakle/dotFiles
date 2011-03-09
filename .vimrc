@@ -73,3 +73,6 @@ set clipboard=unnamed
 	nmap <C-Y> :!echo ""> ~/.vi_tmp<CR><CR>:w! ~/.vi_tmp<CR>
 	vmap <C-Y> :w! ~/.vi_tmp<CR>
 	nmap <C-P> :r ~/.vi_tmp<CR>
+
+colorscheme wombat256mod
+
